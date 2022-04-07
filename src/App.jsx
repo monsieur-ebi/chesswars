@@ -12,10 +12,10 @@ function App(props) {
     <Router>
       <div>
         <Switch>
-          <Route exact path="/Chess">
+          <Route exact path="/Chess" component={Chess}>
             <Chess />
           </Route>
-          <Route exact path="/Auth">
+          <Route exact path="/Auth" component={Auth}>
             <Auth />
           </Route>
           <Route path="/">
