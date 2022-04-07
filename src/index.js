@@ -4,13 +4,13 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { DndProvider } from 'react-dnd'
 import { HTML5Backend } from 'react-dnd-html5-backend'
-import {HashRouter as Router} from 'react-router-dom' 
+import {HashRouter} from 'react-router-dom' 
 ReactDOM.render(
   <React.StrictMode>
     <DndProvider backend={HTML5Backend}>
-      <Router>
+      <HashRouter>
         <App />
-      </Router>
+      </HashRouter>
     </DndProvider>
   </React.StrictMode>,
   document.getElementById('root')
