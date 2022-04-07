@@ -9,7 +9,6 @@ import Ui from './Ui'
 function App(props) {
 
   return (
-    <Router>
       <div>
         <Switch>
           <Route exact path="/Chess" component={Chess}>
@@ -23,7 +22,6 @@ function App(props) {
           </Route>
         </Switch>
       </div>
-    </Router>
   )
 }
 
