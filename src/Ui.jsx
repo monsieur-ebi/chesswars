@@ -78,7 +78,7 @@ function Ui() {
                 </span>
               </p>
               <div class="fw-divider-space divider-30 divider-lg-40"></div>
-              <a href="/auth" class="btn btn-maincolor medium-btn">Start now</a>
+              <a href="/#/auth" class="btn btn-maincolor medium-btn">Start now</a>
               <div class="fw-divider-space divider-30 divider-sm-0"></div>
             </div>
 
