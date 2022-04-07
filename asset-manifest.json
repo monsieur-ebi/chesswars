@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chesswars/static/css/main.ef77998c.css",
-    "main.js": "/chesswars/static/js/main.c1f89c2c.js",
+    "main.js": "/chesswars/static/js/main.b56b3f70.js",
     "static/js/730.83f0bc41.chunk.js": "/chesswars/static/js/730.83f0bc41.chunk.js",
     "static/media/fa-solid-900.svg": "/chesswars/static/media/fa-solid-900.fc5dd5b7715de80aae18.svg",
     "static/media/fa-brands-400.svg": "/chesswars/static/media/fa-brands-400.c85bfa49e8f57a88ad68.svg",
@@ -55,11 +55,11 @@
     "static/media/default-skin.svg": "/chesswars/static/media/default-skin.f64c3af3d0d25b9e4e00.svg",
     "index.html": "/chesswars/index.html",
     "main.ef77998c.css.map": "/chesswars/static/css/main.ef77998c.css.map",
-    "main.c1f89c2c.js.map": "/chesswars/static/js/main.c1f89c2c.js.map",
+    "main.b56b3f70.js.map": "/chesswars/static/js/main.b56b3f70.js.map",
     "730.83f0bc41.chunk.js.map": "/chesswars/static/js/730.83f0bc41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef77998c.css",
-    "static/js/main.c1f89c2c.js"
+    "static/js/main.b56b3f70.js"
   ]
 }
